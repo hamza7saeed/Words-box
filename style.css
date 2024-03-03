@@ -1,0 +1,13 @@
+section{
+    display: flex;
+
+    align-items: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    margin: 14%;
+}
+
+#box{
+    padding: 35px;
+
+}
